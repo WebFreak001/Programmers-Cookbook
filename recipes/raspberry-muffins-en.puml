@@ -1,0 +1,58 @@
+@startuml raspberry-muffins-en
+!include raspberry-muffins-ingredients.iuml
+
+floating note
+	**Raspberry muffins with crumbs**
+	====
+	Fluffy raspberry muffins with crumb pieces (Streusel) on top.
+
+	From chefkoch.de by Brotfan63
+	====
+	INGREDIENTS
+end note
+
+fork
+:Preheat oven
+200 °C (390 °F);
+fork again
+:Prepare muffin liners;
+fork again
+fork
+	:Flour			250 g
+	Sugar		160 g
+	Cinnamon		1/2 tsp.
+	Vanilla Sugar	1 Pck. (8 g)
+	Backing powder2 tsp.;
+	partition "Small Bowl" {
+		:Combine ingredients;
+	}
+fork again
+	:Softened Butter	80 g
+	Eggs				1
+	Sour Cream		200 g;
+	partition "Mixing Bowl" {
+		:Mix ingredients
+		(should be smooth);
+	}
+end fork
+:Mix Small Bowl + Mixing Bowl;
+:Mix until dough;
+fork again
+:Molten Butter	80 g
+Flour			130 g
+Sugar		100 g;
+partition "Small Bowl" {
+	:mix to make crumbs;
+}
+end fork
+:Fill muffin liner 2/3 full with dough;
+:Push raspberries into dough;
+:Put crumbs on top of raspberries;
+:bake for 25 Minutes with 200 °C (390 °F);
+-[dotted]-> 25 Minutes
+later;
+:Take out muffins;
+:Let them cool;
+:Serve with powdered sugar;
+stop
+@enduml

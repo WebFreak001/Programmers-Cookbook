@@ -1,0 +1,28 @@
+@startuml
+!definelong INGREDIENTS
+**CHANGELOG**
+	v1.2
+	Added missing raspberrys to ingredients list
+
+	v1.1
+	Crumble ingredients increased by 4/3
+
+	v1.0
+	Initial conversion from Chefkoch
+	----
+	Total Ingredients for **12**:
+	Flour				250 g + 130 g = 380 g
+	Sugar			160 g + 100 g = 260 g
+	Cinnamon		1/2 tsp.
+	Vanilla sugar		1 Package (8 g)
+	Baking powder		2 tsp.
+	Butter			80 g + 80 g melted = 160 g
+	Eggs				1
+	Sour cream		200 g
+	Frozen raspberries	150 g
+
+	Duration:
+	30~45 minutes preparation
+	25 minutes baking
+!enddefinelong
+@enduml
