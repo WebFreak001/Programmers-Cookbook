@@ -6,7 +6,7 @@ Recipes are collected from anywhere and translated from the native language to E
 
 Unless otherwise noted, recipes are licensed CC0/public domain.
 
-[View Recipes](RECIPES.md)
+[View Recipes on recipes.webfreak.org](https://recipes.webfreak.org)
 
 ## Recipe overview
 
