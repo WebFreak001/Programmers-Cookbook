@@ -1,0 +1,76 @@
+@startuml rasbperry-muffins-de
+floating note
+	**Himbeer Muffins mit Streuseln**
+	====
+	Fluffige Himbeer-Muffins mit Streuseln
+
+	Aus chefkoch.de von Brotfan63
+	====
+	**CHANGELOG**
+	v1.1
+	Crumble ingredients increased by 4/3
+
+	v1.0
+	Initial conversion from Chefkoch
+	----
+	Total Ingredients for **12**:
+	Flour			250 g + 130 g = 380 g
+	Sugar		160 g + 100 g = 260 g
+	Cinnamon	1/2 tsp.
+	Vanilla sugar	1 Package (8 g)
+	Baking powder	2 tsp.
+	Butter		80 g + 80 g melted = 160 g
+	Eggs			1
+	Sour cream	200 g
+
+	Duration:
+	30~45 minutes preparation
+	25 minutes baking
+end note
+
+fork
+:Backofen vorheizen
+200 °C Umluft;
+fork again
+:Muffinblech mit
+Papierförmchen auslegen;
+fork again
+fork
+	:Mehl			250 g
+	Zucker		160 g
+	Zimt			1/2 TL
+	Vanillezucker	1 Pck.
+	Backpulver	2 TL;
+	partition "Kleine Schüssel" {
+		:Zutaten vermischen;
+	}
+fork again
+	:weiche Butter	80 g
+	Eier			1
+	saure Sahne	200 g;
+	partition "Mix Schüssel" {
+		:Zutaten verrühren
+		(am besten glatt);
+	}
+end fork
+:Kleine Schüssel + Mix Schüssel kombinieren;
+:Zutaten verrühren;
+fork again
+:flüssige Butter	80 g
+Mehl			130 g
+Zucker		100 g;
+partition "Kleine Schüssel" {
+	:zu Streusel Verkneten;
+}
+end fork
+:Teig zu 2/3 in Papierförmchen füllen;
+:Himbeeren in den Teig drücken;
+:Streusel auf die Himbeeren geben;
+:bei 200 °C 25 Minuten backen;
+-[dotted]-> 25 Minuten
+später;
+:Muffins rausnehmen;
+:Muffins kühlen;
+:Muffins mit Puderzucker bestreut servieren;
+stop
+@enduml
