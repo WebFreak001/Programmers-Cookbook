@@ -53,6 +53,7 @@ This is a translation table which might not be fully accurate but should help us
 It is best to lookup ingredients from the original language if unsure about ingredients, even in translated recipes.
 
 Ingredients
+
 | DE | EN |
 |---|---|
 |Mehl|Flour|
@@ -77,6 +78,7 @@ Ingredients
 |Streusel|Crumbs/Crumble|
 
 Processes
+
 | DE | EN |
 |---|---|
 |Schmelzen/geschmolzen|melt/molten|
