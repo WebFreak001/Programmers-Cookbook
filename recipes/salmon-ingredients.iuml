@@ -1,0 +1,26 @@
+@startuml
+!definelong INGREDIENTS
+**CHANGELOG**
+	v1.0
+	Initial conversion from gohan.jp
+	----
+	Total Ingredients for **1**:
+	Rice	125 g
+	Salmon	200 g
+	Soy sauce	2 tbsp.
+	Mirin	1 tsp.
+	Sake	1 tsp.
+	Sugar	1/2 tsp.
+	Onion dressing	2 tbsp. (optional)
+	Garlic	3 Cloves, sliced (recommended)
+	Oil	2 tbsp.
+	Eggyolk	1 (optional)
+	Salt
+	Pepper
+	Dill (or similar)
+
+	Duration:
+	35 minutes total
+	15 minutes cooking
+!enddefinelong
+@enduml

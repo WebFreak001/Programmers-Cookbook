@@ -1,0 +1,57 @@
+@startuml salmon-en
+!include salmon-ingredients.iuml
+
+floating note
+	**Fried salmon with rice**
+	====
+	Fried seasoned salmon with rice and egg yolk.
+
+	Recipe mostly from https://gohanjp.com/posts/6004
+	You can check there for the original recipe and a video and pictures of the process.
+
+	This recipe is improved for the western kitchen and more finely explains the steps.
+
+	Suggestions in form of issues or pull requests always welcome!
+	====
+	INGREDIENTS
+end note
+
+fork
+:Soy sauce	2 tbsp.
+Mirin			1 tsp.
+Sake			1 tsp.
+Sugar		1/2 tsp.
+Onion dressing	2 tbsp. (optional);
+:Mix together as sauce base;
+fork again
+:Salt
+Pepper;
+end fork
+:Season & marinate salmon;
+:Put salmon in fridge;
+
+fork
+
+:Cook rice
+(about 10 minutes);
+fork again
+fork
+:wait 20-30 minutes for salmon in fridge;
+fork again
+:Garlic	3 Cloves, sliced (recommended)
+Oil		2 tbsp.;
+:Put on high heat in pan;
+end fork
+:Remove garlic from pan;
+:Fry salmon on each side for around 30 seconds
+(more or less depending on the desired result)
+
+add a little bit of the marinade too so you have sauce for the rice;
+end fork
+:Put rice in bowl;
+:Put salmon & some of the fat/oil/sauce in the pan on top of rice;
+:Put dill or other greens on salmon;
+:Egg yolk on rice to top it off (optional);
+stop
+
+@enduml
